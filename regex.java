@@ -4,7 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.regex.*;
 
-public class tester {
+public class regex {
 	public static void main(String[] args) {
 		
 //		String text = "This generational and chronological list of Intel processors attempts to present all of Intel's\r\n" + 
